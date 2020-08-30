@@ -1,0 +1,59 @@
+========================================
+CS/COE 1520 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment. Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name: Erik Roeckel
+
+Lecture section: Mon. 5:30pm - 8:15pm
+
+Recitation day and time: Fri. 4:00pm - 4:50pm
+
+Assignment #: 4
+
+Program due date: 12/4/2019
+
+Handed in date:  12/4/2019
+
+Source code file name(s):
+
+static/script.js
+static/style.css
+templates/layout.html
+budget.py
+
+
+Other file name(s) (if relevant):
+
+
+N/A
+
+
+Does your project run without error?:
+
+Overall functionality of program works great, with one small bug
+
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+Mostly all of my program functions correctly and meets the requirements. The only part that
+I did not get to handle for is if a user types in an unrecognized category name when adding a purchase.
+When the user does this nothing is updated to the screen, I'm not sure if we were expected to handle for this corner case or not.
+However, I did handle for when the user leaves the category box empty and submits a purchase. In this case
+the purchase is automatically added to uncategorized purchase category.
+
+
+
+
+Additional comments to the grader:
+
+
+
+
+
+
+
